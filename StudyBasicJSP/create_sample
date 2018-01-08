@@ -22,3 +22,5 @@ insert into manager(managerId,managerPasswd)
 values('bookmaster@shop.com','123456');
 
 select * from manager;
+
+
